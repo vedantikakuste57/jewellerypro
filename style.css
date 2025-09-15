@@ -1,0 +1,36 @@
+.navbar-nav{
+    margin-left: 120px;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.hd1{
+    text-align: center;
+    margin-top: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}.bor{
+    width: 100px;
+    margin-left: 500px;
+    border-bottom: 2px solid gold;
+}
+.im1 img{
+    clip-path: circle(70%);
+}
+.smd{
+    background-color: rgb(73, 128, 73);
+    width: 400px;
+    padding: 4px;
+    color: white;
+    border-start-end-radius: 14px;
+}
+.form-control{
+    width: 200px;
+}
+.footer-bottom{
+    border-top: 1px solid #dee2e6;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 14px;
+    color: #6c757d;
+}
